@@ -1,0 +1,22 @@
+{
+  "name": "sass_demo",
+  "version": "1.0.0",
+  "description": "This repository is specifically for a SASS demonstration for my YouTube channel.",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch sass/_main.sass css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collinkleest/sass_demo.git"
+  },
+  "author": "collin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/collinkleest/sass_demo/issues"
+  },
+  "homepage": "https://github.com/collinkleest/sass_demo#readme",
+  "dependencies": {
+    "sass": "^1.25.0"
+  }
+}
